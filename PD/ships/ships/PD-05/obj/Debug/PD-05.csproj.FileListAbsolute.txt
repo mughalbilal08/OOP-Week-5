@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\PD-05\PD-05\bin\Debug\PD-05.exe.config
+C:\Users\dell\source\repos\PD-05\PD-05\bin\Debug\PD-05.exe
+C:\Users\dell\source\repos\PD-05\PD-05\bin\Debug\PD-05.pdb
+C:\Users\dell\source\repos\PD-05\PD-05\obj\Debug\PD-05.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\PD-05\PD-05\obj\Debug\PD-05.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\PD-05\PD-05\obj\Debug\PD-05.exe
+C:\Users\dell\source\repos\PD-05\PD-05\obj\Debug\PD-05.pdb
+F:\OOPs & Pd\Week 04\PD\ships\PD-05\bin\Debug\PD-05.exe.config
+F:\OOPs & Pd\Week 04\PD\ships\PD-05\bin\Debug\PD-05.exe
+F:\OOPs & Pd\Week 04\PD\ships\PD-05\bin\Debug\PD-05.pdb
+F:\OOPs & Pd\Week 04\PD\ships\PD-05\obj\Debug\PD-05.csproj.AssemblyReference.cache
+F:\OOPs & Pd\Week 04\PD\ships\PD-05\obj\Debug\PD-05.csproj.CoreCompileInputs.cache
+F:\OOPs & Pd\Week 04\PD\ships\PD-05\obj\Debug\PD-05.exe
+F:\OOPs & Pd\Week 04\PD\ships\PD-05\obj\Debug\PD-05.pdb
